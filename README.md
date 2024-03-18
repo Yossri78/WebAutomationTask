@@ -1,5 +1,9 @@
-💢Project Name and Description:
-A concise yet descriptive title and an overview of the project’s purpose.
+💢The main Frameworks included in the project:
+  - java
+  - maven
+  - TestNG
+  - Extent Report
+  - Data Driven To read data from JSON file
 
 💢Running Instructions:
 Run script through testng.xml file
